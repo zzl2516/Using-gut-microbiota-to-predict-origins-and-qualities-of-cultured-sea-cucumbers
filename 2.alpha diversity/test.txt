@@ -1,0 +1,9 @@
+Group	Chao1	Observed_species	Shannon	Simpson	Pielou_e	Faith_pd
+XP	ab	ab	a	ab	a	a
+SZ	a	ab	ac	ab	bc	ab
+YT	c	c	bc	ab	bc	b
+QD	c	c	c	ab	bc	b
+WFD	c	c	c	b	c	b
+BCD	ac	bc	bc	ab	bc	ab
+DY	bc	ac	c	ab	c	ab
+JZ	a	b	ab	a	ab	a
