@@ -1,0 +1,9 @@
+Group	Alphaproteobacteria	Gammaproteobacteria	Flavobacteriia	Deltaproteobacteria	Acidimicrobiia	Verrucomicrobiae	Betaproteobacteria	Epsilonproteobacteria	Thermoleophilia	Chloroplast	Cytophagia	Sva0725
+XP	a	de	c	a	a	a	bc	c	a	a	a	c
+SZ	a	e	a	d	c	a	c	ab	a	ab	a	d
+YT	ab	cde	ab	c	b	b	ab	bc	a	ab	a	bc
+QD	a	abc	ac	d	d	a	a	a	a	ab	a	ac
+WFD	a	bd	bc	c	b	a	a	c	a	ab	a	ac
+BCD	b	ab	ac	bc	ab	b	a	c	a	bc	a	ac
+DY	b	be	a	a	b	a	ab	a	b	c	b	a
+JZ	b	a	ac	ab	b	b	bc	ab	b	b	a	ab

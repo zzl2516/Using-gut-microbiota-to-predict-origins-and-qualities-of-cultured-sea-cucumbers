@@ -1,0 +1,7 @@
+	Abundance
+Proteobacteria	70.26
+Bacteroidetes	11.43
+Actinobacteria	7.42
+Verrucomicrobia	5.16
+Cyanobacteria	1.22
+Others	3.51
