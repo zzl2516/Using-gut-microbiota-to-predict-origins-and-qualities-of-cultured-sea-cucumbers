@@ -1,0 +1,9 @@
+Group	PC1	PC2
+XP	a	b
+SZ	a	a
+YT	bcd	b
+QD	e	a
+WFD	e	a
+BCD	de	b
+DY	b	d
+JZ	c	c
