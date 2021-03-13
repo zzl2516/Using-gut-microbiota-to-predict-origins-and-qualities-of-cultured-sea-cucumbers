@@ -1,0 +1,1 @@
+Mantel statistic based on Spearman's rank correlation rho Call:mantel(xdis = mat, ydis = dis, method = "spearman") Mantel statistic r: 0.04385       Significance: 0.115 Upper quantiles of permutations (null model):   90%    95%  97.5%    99% 0.0469 0.0582 0.0748 0.0878 Permutation: freeNumber of permutations: 999
