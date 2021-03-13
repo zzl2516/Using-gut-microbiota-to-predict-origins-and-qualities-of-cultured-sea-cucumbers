@@ -1,0 +1,23 @@
+	Protein	Fat	Sugar	Saponin	Collagen	VA	VE	Taurine	CS
+Proteobacteria	3	6	6	3	5	3	5	1	2
+Cyanobacteria	2	3	2	3		1	4	4	4
+Bacteroidetes	1			2					2
+Verrucomicrobia	4	3	1		1			2	1
+Firmicutes	1			1				1	
+Tenericutes	1			1		1		1	
+Planctomycetes	2				1	1	1		
+Actinobacteria	1	2	2	2	3			1	2
+WS2		1	1						
+Chloroflexi			2		2		1	2	2
+TM7			1		1	1	1	1	
+SBR1093				1		2	1		1
+Chlamydiae				1	1				
+GN02					1				
+WWE1						1			
+Gemmatimonadetes						1		1	
+WS6						1			
+Spirochaetes						1	1		
+Acidobacteria						1	1		
+BRC1						1			
+TM6				1				1	
+WPS-2									1

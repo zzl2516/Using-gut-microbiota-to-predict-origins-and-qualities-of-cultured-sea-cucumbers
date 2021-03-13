@@ -1,0 +1,5 @@
+Phylum	23	53.74%
+Class	76	58.46%
+Order	157	70.45%
+Family	273	73.68%
+Genus	630	71.13%
